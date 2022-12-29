@@ -1,3 +1,31 @@
+#Przede wszystkim koniecznie pobierz biblioteke Bootstrap
+Przykładowo tak:
+npm install bootstrap@v5.2.3
+
+# Jak ogarnąć projekt:
+
+Pobierz node'a z internetu, następnie stwórz w wybranym folderze (domyślnie robi w twoim użytkowniku na C:\):
+
+npx create-react-app "nazwa twojego projektu"
+
+# Po utworzeniu:
+
+skorzystaj z komendy 
+## `dir` 
+żeby odnaleźć się gdzie jesteś 
+
+następnie 
+
+## `cd "gdziestam"` 
+tak aby dostać się do folderu z twoim projektem
+
+## I teraz skorzystaj z:
+### `npm start`
+
+Po wpisaniu tych komend powinno otworzyć ci przeglądarke z projektem! Jeżeli widzisz kręcące się logo reacta na `localhost:3000` to jesteś w domu.
+
+
+# Reszta pierdół domyślnie wygenerowanych przez reacta, poczytaj sobie pewnie się przyda.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
