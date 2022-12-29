@@ -8,7 +8,7 @@ Pobierz node'a z internetu, następnie stwórz w wybranym folderze (domyślnie r
 
 # OD TERAZ RÓB WSZYSTKO W KONSOLI: node.js command prompt (wyszukaj w windowsie)
 
-npx create-react-app "nazwa twojego projektu"
+`npx create-react-app "nazwa twojego projektu"`
 
 # Po utworzeniu:
 
