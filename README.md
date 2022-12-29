@@ -1,4 +1,4 @@
-#Przede wszystkim koniecznie pobierz biblioteke Bootstrap
+# Przede wszystkim koniecznie pobierz biblioteke Bootstrap
 Przykładowo tak:
 npm install bootstrap@v5.2.3
 
