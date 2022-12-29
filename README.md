@@ -6,6 +6,8 @@ npm install bootstrap@v5.2.3
 
 Pobierz node'a z internetu, następnie stwórz w wybranym folderze (domyślnie robi w twoim użytkowniku na C:\):
 
+# OD TERAZ RÓB WSZYSTKO W KONSOLI: node.js command prompt (wyszukaj w windowsie)
+
 npx create-react-app "nazwa twojego projektu"
 
 # Po utworzeniu:
